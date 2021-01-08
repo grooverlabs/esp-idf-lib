@@ -209,6 +209,7 @@ See [GitHub examples](https://github.com/UncleRus/esp-idf-lib/tree/master/exampl
 | **tca9548**    | Driver for TCA9548A/PCA9548A low-voltage 8-channel I2C switch           | BSD     | Yes
 | **led_strip**  | RMT-based driver for WS2812B/SK6812/APA106 LED strips                   | MIT     | Yes
 | **rda5807m**   | Driver for single-chip broadcast FM radio tuner RDA5807M                | BSD     | Yes
+| **mpr121**     | ESP-IDF driver for MPR121 Capacitive Touch Sensor                       | BSD     | Yes
 
 
 ## Credits
@@ -230,3 +231,4 @@ See [GitHub examples](https://github.com/UncleRus/esp-idf-lib/tree/master/exampl
 - [Pham Ngoc Thanh](https://github.com/panoti), developer of PCF8591 driver
 - [Lucio Tarantino](https://github.com/dianlight), developer of ADS111x driver
 - [Julian Dörner](https://github.com/juliandoerner), developer of TSL2591 driver
+- [Paul Maseberg](https://github.com/pmaseberg), developer of MPR121 driver
