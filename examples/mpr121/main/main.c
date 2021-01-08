@@ -15,8 +15,8 @@
 #define SDA_GPIO 4
 #define SCL_GPIO 5
 #else
-#define SDA_GPIO 15
-#define SCL_GPIO 4
+#define SDA_GPIO 22
+#define SCL_GPIO 21
 #endif
 
 #if defined(CONFIG_IDF_TARGET_ESP32S2)
